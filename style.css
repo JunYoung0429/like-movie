@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    font-family: 'Fredoka One', cursive;
+}
+img{
+    margin-right: 2.90625%;
+    margin-bottom: 1.5625%;
+}
+.main{
+    background-image: url('background.jpg');
+    width: 100%;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    text-align: center;
+    line-height: 50vh;
+    font-size: 2em;
+}
+.movie-box{
+    text-align: center;
+    background: #051924; 
+    padding-top:10.90625%;
+}
+.second-movie-box{
+    text-align: center;
+    background: #051924;
+    height: 50vh;
+    padding-top: 10.625%;
+}
